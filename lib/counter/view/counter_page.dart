@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:counter_app_2/counter/counter.dart';
+import 'package:counter_app_cubit/counter/counter.dart';
 
 /// {@template counter_page}
 /// A [StatelessWidget] which is responsible for providing a

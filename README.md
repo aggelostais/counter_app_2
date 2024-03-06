@@ -1,3 +1,3 @@
-# counter_app_2
+# counter_app_cubit
 
 A new Flutter project.

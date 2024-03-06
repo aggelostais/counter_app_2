@@ -1,6 +1,6 @@
 {
-    "name": "counter_app_2",
-    "short_name": "counter_app_2",
+    "name": "counter_app_cubit",
+    "short_name": "counter_app_cubit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
